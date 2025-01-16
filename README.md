@@ -1,5 +1,1 @@
-- 👋 Hi, I’m Sanjit!
-- I enjoy exploring innovative solutions to real-world problems.
-- Check out my repositories to see what I’m working on.
-- Feel free to connect or collaborate.
-- Let’s create something amazing! 🚀
+
